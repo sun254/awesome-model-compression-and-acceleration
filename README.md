@@ -16,6 +16,10 @@
 - [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)
 - [SEP-Nets: Small and Effective Pattern Networks](https://arxiv.org/pdf/1706.03912.pdf)
 - [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
+- [Learning Infinite Layer Networks Without the Kernel Trick](https://arxiv.org/pdf/1606.05316v2.pdf)
+- [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746v3.pdf)
+- [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
+- [EIE: Efﬁcient inference engine on compressed deep neural network](https://arxiv.org/pdf/1602.01528.pdf)
 
 #### Distillation
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
@@ -29,11 +33,17 @@
 - [Binarized Convolutional Neural Networks with Separable Filters for Efficient Hardware Acceleration](https://arxiv.org/pdf/1707.04693.pdf)
 - [Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf)
 - [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf)
+- [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/pdf/1606.06160.pdf)
+
+#### Quantization
+- [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
+- []()
+- []()
 - []()
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
-- []()
+- [Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization](https://arxiv.org/pdf/1707.09102.pdf)
 - []()
 - []()
 - []()
