@@ -19,7 +19,6 @@
 - [Learning Infinite Layer Networks Without the Kernel Trick](https://arxiv.org/pdf/1606.05316v2.pdf)
 - [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746v3.pdf)
 - [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
-- [EIE: Efﬁcient inference engine on compressed deep neural network](https://arxiv.org/pdf/1602.01528.pdf)
 
 #### Distillation
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
@@ -37,18 +36,29 @@
 
 #### Quantization
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
-- []()
-- []()
-- []()
+- [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/pdf/1611.05402.pdf)
+- [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473.pdf)
+- [Compressing Deep Convolutional Networks using Vector Quantization](https://arxiv.org/pdf/1412.6115.pdf)
+- [Quantized Neural Networks: Training Neural Networks with Low Precision Weights and Activations](https://arxiv.org/pdf/1609.07061.pdf)
+- [Fixed-Point Performance Analysis of Recurrent Neural Networks](https://arxiv.org/abs/1512.01322)
+- [Loss-aware Binarization of Deep Networks](https://arxiv.org/pdf/1611.01600.pdf)
+- [Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543.pdf)
+- [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953.pdf)
+- [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
 - [Fine-Pruning: Joint Fine-Tuning and Compression of a Convolutional Network with Bayesian Optimization](https://arxiv.org/pdf/1707.09102.pdf)
-- []()
-- []()
-- []()
-- []()
+- [Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing](http://www.cs.jhu.edu/~jason/papers/vieira+eisner.tacl17.pdf)
+- [Designing Energy-Efficient Convolutional Neural Networks using Energy-Aware Pruning](https://arxiv.org/pdf/1611.05128.pdf)
+- [Pruning Filters for Efficient ConvNets](https://arxiv.org/pdf/1608.08710.pdf)
+- [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/pdf/1611.06440.pdf)
+- [Soft Weight-Sharing for Neural Network Compression](https://arxiv.org/pdf/1702.04008.pdf)
+- [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/pdf/1510.00149.pdf)
+- [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626.pdf)
+- [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/pdf/1608.04493.pdf)
 
-#### 
-
-
+#### Low Rank Approximation
+- [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
+- []()
+- []()
