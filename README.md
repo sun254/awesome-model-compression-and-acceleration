@@ -19,6 +19,7 @@
 - [Learning Infinite Layer Networks Without the Kernel Trick](https://arxiv.org/pdf/1606.05316v2.pdf)
 - [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746v3.pdf)
 - [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
+- [Squeezedet: Uniﬁed, small, low power fully convolutional neural networks](https://arxiv.org/pdf/1612.01051)
 
 #### Distillation
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
@@ -45,6 +46,7 @@
 - [Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543.pdf)
 - [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953.pdf)
 - [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
+- [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
@@ -60,5 +62,10 @@
 
 #### Low Rank Approximation
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
-- []()
-- []()
+- [Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/pdf/1511.06530.pdf)
+- [Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://arxiv.org/pdf/1411.4229.pdf)
+- [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://arxiv.org/pdf/1505.06798.pdf)
+- [Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067.pdf)
+- [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
+- [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
+
