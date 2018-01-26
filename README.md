@@ -20,6 +20,7 @@
 - [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746v3.pdf)
 - [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
 - [Squeezedet: Uniﬁed, small, low power fully convolutional neural networks](https://arxiv.org/pdf/1612.01051)
+- [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
 
 #### Distillation
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
@@ -46,7 +47,6 @@
 - [Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543.pdf)
 - [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953.pdf)
 - [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
-- [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
