@@ -21,6 +21,7 @@
 - [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
 - [Squeezedet: Uniﬁed, small, low power fully convolutional neural networks](https://arxiv.org/pdf/1612.01051)
 - [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
+- [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf)
 
 #### Distillation
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
@@ -68,4 +69,3 @@
 - [Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067.pdf)
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
-
