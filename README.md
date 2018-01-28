@@ -21,13 +21,22 @@
 - [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
 - [Squeezedet: Uniﬁed, small, low power fully convolutional neural networks](https://arxiv.org/pdf/1612.01051)
 - [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
+- [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf)
 
 #### Distillation
+- [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
+- [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977)
 - [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220.pdf)
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650.pdf)
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
+- [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
+- [Data-Free Knowledge Distillation For Deep Neural Networks](https://arxiv.org/pdf/1710.07535.pdf)
+- [Learning Loss for Knowledge Distillation with Conditional Adversarial Networks](https://arxiv.org/pdf/1709.00513.pdf)
+- [Knowledge Projection for Effective Design of Thinner and Faster Deep Neural Networks](https://arxiv.org/pdf/1710.09505.pdf)
+- [Moonshine: Distilling with Cheap Convolutions](https://arxiv.org/pdf/1711.02613.pdf)
+- [Model Distillation with Knowledge Transfer from Face Classification to Alignment and Verification](https://arxiv.org/pdf/1709.02929.pdf)
 
 #### Binarization
 - [Local Binary Convolutional Neural Networks](https://arxiv.org/pdf/1608.06049.pdf)
