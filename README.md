@@ -30,6 +30,8 @@
 - [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977)
 - [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220.pdf)
 - [Deep Model Compression: Distilling Knowledge from Noisy Teachers](https://arxiv.org/pdf/1610.09650.pdf)
+- [Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer](https://arxiv.org/pdf/1612.03928.pdf)
+- [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947.pdf)
 - [Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
 - [Data-Free Knowledge Distillation For Deep Neural Networks](https://arxiv.org/pdf/1710.07535.pdf)
