@@ -12,7 +12,6 @@
 - [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083)
 - [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://arxiv.org/abs/1707.06342)
 - [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360)
-- [Squeeze-and-Excitation Networks](https://arxiv.org/abs/1709.01507)
 - [Residual Attention Network for Image Classification](https://arxiv.org/pdf/1704.06904.pdf)
 - [SEP-Nets: Small and Effective Pattern Networks](https://arxiv.org/pdf/1706.03912.pdf)
 - [Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
