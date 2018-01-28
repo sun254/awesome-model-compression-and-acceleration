@@ -4,8 +4,10 @@
 #### Overview
 - [Model compression as constrained optimization, with application to neural nets. Part I: general framework](https://arxiv.org/abs/1707.01209)
 - [Model compression as constrained optimization, with application to neural nets. Part II: quantization](https://arxiv.org/abs/1707.04319)
+-[A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282.pdf)
 
 #### Structure
+- [Dynamic Capacity Networks](https://arxiv.org/pdf/1511.07838.pdf)
 - [ResNeXt: Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf)
 - [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861.pdf)
 - [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
@@ -19,12 +21,15 @@
 - [Coordinating Filters for Faster Deep Neural Networks](https://arxiv.org/pdf/1703.09746v3.pdf)
 - [ResBinNet: Residual Binary Neural Network](https://arxiv.org/abs/1711.01243)
 - [Squeezedet: Uniﬁed, small, low power fully convolutional neural networks](https://arxiv.org/pdf/1612.01051)
+- [Efficient Sparse-Winograd Convolutional Neural Networks](https://openreview.net/pdf?id=r1rqJyHKg)
+- [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://openreview.net/pdf?id=HyoST_9xl)
 - [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
 - [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf)
 
 #### Distillation
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
 - [FitNets: Hints for Thin Deep Nets](https://arxiv.org/pdf/1412.6550.pdf)
+- [Net2net: Accelerating learning via knowledge transfer]()
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)
 - [MobileID: Face Model Compression by Distilling Knowledge from Neurons](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11977)
 - [DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/pdf/1707.01220.pdf)
@@ -57,6 +62,7 @@
 - [Towards the Limit of Network Quantization](https://arxiv.org/pdf/1612.01543.pdf)
 - [Deep Learning with Low Precision by Half-wave Gaussian Quantization](https://arxiv.org/pdf/1702.00953.pdf)
 - [ShiftCNN: Generalized Low-Precision Architecture for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
+- [Trained Ternary Quantization](https://arxiv.org/pdf/1612.01064.pdf)
 
 #### Pruning
 - [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/pdf/1707.01213.pdf)
@@ -78,4 +84,5 @@
 - [Convolutional neural networks with low-rank regularization](https://arxiv.org/pdf/1511.06067.pdf)
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
 - [Speeding up convolutional neural networks with low rank expansions](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14b/jaderberg14b.pdf)
+- [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694.pdf)
 
