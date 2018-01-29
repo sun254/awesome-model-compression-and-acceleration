@@ -76,6 +76,7 @@
 - [Learning both Weights and Connections for Efficient Neural Networks](https://arxiv.org/pdf/1506.02626.pdf)
 - [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/pdf/1608.04493.pdf)
 - [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694.pdf)
+- [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/pdf/1608.01409.pdf)
 
 #### Low Rank Approximation
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
