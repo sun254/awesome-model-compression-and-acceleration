@@ -25,6 +25,7 @@
 - [DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://openreview.net/pdf?id=HyoST_9xl)
 - [Fast YOLO: A Fast You Only Look Once System for Real-time Embedded Object Detection in Video](https://arxiv.org/abs/1709.05943)
 - [Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation](https://arxiv.org/pdf/1801.04381.pdf)
+- [AddressNet: Shift-based Primitives for Efficient Convolutional Neural Networks](https://arxiv.org/pdf/1809.08458)
 
 #### Distillation
 - [Dark knowledge](http://www.ttic.edu/dl/dark14.pdf)
@@ -77,6 +78,8 @@
 - [Dynamic Network Surgery for Efficient DNNs](https://arxiv.org/pdf/1608.04493.pdf)
 - [ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA](https://arxiv.org/pdf/1612.00694.pdf)
 - [Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/pdf/1608.01409.pdf)
+- [Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Channel_Pruning_for_ICCV_2017_paper.pdf)
+- [Amc: Automl for model compression and acceleration on mobile devices](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)
 
 #### Low Rank Approximation
 - [Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](https://arxiv.org/pdf/1404.0736.pdf)
