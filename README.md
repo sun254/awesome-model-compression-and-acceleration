@@ -52,6 +52,7 @@
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/pdf/1606.06160.pdf)
 
 #### Quantization
+- [Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization](https://arxiv.org/abs/2610.31309)
 - [Quantize weights and activations in Recurrent Neural Networks](https://arxiv.org/pdf/1611.10176.pdf)
 - [The ZipML Framework for Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](https://arxiv.org/pdf/1611.05402.pdf)
 - [Quantized Convolutional Neural Networks for Mobile Devices](https://arxiv.org/pdf/1512.06473.pdf)
